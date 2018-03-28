@@ -21,13 +21,18 @@ Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Man
 Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.412 seconds
+- Completed reload, in  0.248 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.720197 ms
+UnloadTime: 0.730437 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2fa0 -> priority: 1 
-  Thread -> id: 336c -> priority: 1 
-  Thread -> id: 3200 -> priority: 1 
-  Thread -> id: 32d0 -> priority: 1 
+  Thread -> id: 2d8c -> priority: 1 
+  Thread -> id: 37ec -> priority: 1 
+  Thread -> id: 1b70 -> priority: 1 
+  Thread -> id: 2af8 -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:62031} time {37665}, last rec time {35655} rtt {11} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
