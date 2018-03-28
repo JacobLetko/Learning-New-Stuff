@@ -16,7 +16,7 @@ public class PlayerMove : NetworkBehaviour
         var z = Input.GetAxis("Vertical") * 0.1f;
 
         if (Input.GetKeyDown(KeyCode.Space))
-            Fire();
+            CmdFire();
 
         transform.Translate(x, 0, z);
     }
@@ -26,15 +26,21 @@ public class PlayerMove : NetworkBehaviour
         GetComponent<MeshRenderer>().material.color = Color.red;
     }
 
-    void Fire()
+    [Command]
+    void CmdFire()
     {
+        // Command = ran on server / host
+
         // creates bullet
         var bullet = (GameObject)Instantiate(bulletpref, transform.position - transform.forward, Quaternion.identity);
 
         //make bullet move
         bullet.GetComponent<Rigidbody>().velocity = -transform.forward * 4;
 
-        //
+        //spawn bullet on clients
+        NetworkServer.Spawn(bullet);
+
+        //when destroyed on server it will destroy on clients as well
         Destroy(bullet, 2f);
     }
 }
