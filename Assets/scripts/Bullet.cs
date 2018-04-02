@@ -7,9 +7,11 @@ public class Bullet : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         var hit = collision.gameObject;
-        var hitplayer = hit.GetComponent<PlayerMove>();
-        if (hitplayer != null)
+        var hitcombat = hit.GetComponent<Combat>();
+        if (hitcombat != null)
         {
+            hitcombat.TakeDamage(10);
+
             Destroy(gameObject);
         }
     }

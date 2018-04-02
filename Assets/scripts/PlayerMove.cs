@@ -6,6 +6,15 @@ using UnityEngine.Networking;
 public class PlayerMove : NetworkBehaviour
 {
     public GameObject bulletpref;
+    public Camera cam;
+
+    private void Start()
+    {
+        if (isLocalPlayer)
+            return;
+
+        cam.enabled = false;
+    }
 
     void Update()
     {
@@ -18,7 +27,8 @@ public class PlayerMove : NetworkBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
             CmdFire();
 
-        transform.Translate(x, 0, z);
+        transform.Translate(-x, 0, 0);
+        transform.Translate(0, 0, -z);
     }
 
     public override void OnStartLocalPlayer()
