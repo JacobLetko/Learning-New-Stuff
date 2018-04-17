@@ -89,6 +89,8 @@
     <Compile Include="Assets\first try\scripts\EnemySpawner.cs" />
     <Compile Include="Assets\first try\scripts\HealthBar.cs" />
     <Compile Include="Assets\first try\scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\playerController.cs" />
     <Compile Include="Assets\Scripts\playerMotor.cs" />
     <Compile Include="Assets\Scripts\playerSetup.cs" />
