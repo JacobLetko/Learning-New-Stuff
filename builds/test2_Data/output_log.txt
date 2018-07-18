@@ -7,27 +7,32 @@ Direct3D:
     VRAM:     1989 MB
     Driver:   22.21.13.8494
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test2_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.443 seconds
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.415 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.717066 ms
+UnloadTime: 0.803815 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2b3c -> priority: 1 
-  Thread -> id: 310 -> priority: 1 
-  Thread -> id: 29b0 -> priority: 1 
-  Thread -> id: 1c1c -> priority: 1 
+  Thread -> id: 1624 -> priority: 1 
+  Thread -> id: 20c4 -> priority: 1 
+  Thread -> id: 146c -> priority: 1 
+  Thread -> id: f78 -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {42886}, last rec time {40702} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -7,27 +7,225 @@ Direct3D:
     VRAM:     1989 MB
     Driver:   22.21.13.8494
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\s179061\Desktop\Networking Test\builds\test_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.463 seconds
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.393 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.756319 ms
+UnloadTime: 0.756599 ms
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.019 seconds
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: e14 -> priority: 1 
-  Thread -> id: 2608 -> priority: 1 
-  Thread -> id: d64 -> priority: 1 
-  Thread -> id: 151c -> priority: 1 
+  Thread -> id: 247c -> priority: 1 
+  Thread -> id: 1a6c -> priority: 1 
+  Thread -> id: 1ae0 -> priority: 1 
+  Thread -> id: 31f8 -> priority: 1 
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.714787 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 215c -> priority: 1 
+  Thread -> id: 28a0 -> priority: 1 
+  Thread -> id: fc4 -> priority: 1 
+  Thread -> id: fc8 -> priority: 1 
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.021 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.689472 ms
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1be0 -> priority: 1 
+  Thread -> id: 87c -> priority: 1 
+  Thread -> id: 1f3c -> priority: 1 
+  Thread -> id: 2480 -> priority: 1 
+UnloadTime: 0.747497 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 23ec -> priority: 1 
+  Thread -> id: 1e94 -> priority: 1 
+  Thread -> id: 3334 -> priority: 1 
+  Thread -> id: 13cc -> priority: 1 
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.019 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.637420 ms
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\s179061\Desktop\Learning-New-Stuff\builds\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.020 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 14e8 -> priority: 1 
+  Thread -> id: 7ec -> priority: 1 
+  Thread -> id: 2550 -> priority: 1 
+  Thread -> id: 2e40 -> priority: 1 
+UnloadTime: 0.799833 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1ac0 -> priority: 1 
+  Thread -> id: 13a4 -> priority: 1 
+  Thread -> id: 498 -> priority: 1 
+  Thread -> id: 141c -> priority: 1 
+dead
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+dead
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {198227}, last rec time {196224} rtt {1} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {190101}, last rec time {188098} rtt {1} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {195834}, last rec time {193340} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {188169}, last rec time {185675} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {201800}, last rec time {199306} rtt {10} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
